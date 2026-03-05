@@ -7,11 +7,11 @@ h1 align="center">Hi 👋, I'm HASAN JAVED</h1>
 
 <p align="left"> <a href="https://twitter.com/mr_hassan_javed" target="blank"><img src="https://img.shields.io/twitter/follow/mr_hassan_javed?logo=twitter&style=for-the-badge" alt="mr_hassan_javed" /></a> </p>
 
-- 🔭 I’m currently working on **Battery Diagnostic Project**
+- 🔭 I’m currently working on ** EV Battery Diagnostic Project**
 
 - 🌱 I’m currently learning **Advanced Automation Frameworks | Agentic AI**
 
-- 📫 How to reach me **hassan786javed@gmail.com**
+- 📫 How to reach me **linkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hasan-javed/](https://www.linkedin.com/in/hasan-javed/)
 
