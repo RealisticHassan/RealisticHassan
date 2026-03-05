@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hassan%20Javed%20M.Sc.&fontSize=40&fontColor=ffffff&animation=fadeIn)
-<h1 align="center">Mr. HASSAN JAVED M.Sc.</h1>
+
 <h3 align="center">Software Test and Development Engineer</h3>
 
 <p align="left">
