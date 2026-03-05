@@ -6,8 +6,9 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/mk_hassan_javed" target="blank">
-<img src="https://img.shields.io/twitter/follow/mk_hassan_javed?logo=twitter&style=for-the-badge" alt="mk_hassan_javed" />
+<a href="https://twitter.com/mk_hassan_javed">
+<img src="https://img.shields.io/twitter/follow/mk_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </a>
 </p>
 
