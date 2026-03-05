@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/mk_hassan_javed">
+<a href="https://twitter.com/mk_hassan_javed" height="10">
 <img src="https://img.shields.io/twitter/follow/mk_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </a>
