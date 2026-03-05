@@ -1,141 +1,70 @@
-# 💫 Hi 👋, I'm Hasan Javed
-**Software Test Engineer | QA Automation | EV Battery Diagnostics | IoT & Smart Systems**
+# Hi 👋, I'm Hasan Javed
 
+💻 Software Test Engineer | QA Automation  
 📍 Vienna, Austria  
-📧 HassanJaved1010@gmail.com  
-🔗 https://linkedin.com/in/hasan-javed/
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Software Test Engineer and QA Automation specialist** with experience in **automation testing, API testing, and enterprise web applications**.
-
-Currently, I work at **AVILOO GmbH in Austria**, focusing on **test automation for electric vehicle battery diagnostic software**, collaborating closely with **framework, reverse engineering, and data science teams**.
-
-I have experience developing automation frameworks, API test suites, and ensuring software quality across **microservices and enterprise systems**.
-
----
-
-## 🔭 Current Work
-- Test Automation for **EV Battery Diagnostics Software**
-- Building and maintaining **automation frameworks**
-- Supporting **release management and QA pipelines**
+- 🔧 Software Test Engineer working on **automation and quality engineering**
+- 🚗 Currently testing **EV Battery Diagnostics Software**
+- 🌱 Learning more about **Test Automation, CI/CD and IoT Systems**
+- 🤝 Open to collaborate on **QA automation and testing tools**
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Test Automation Frameworks**
-- **IoT and Smart Systems**
-- Modern **CI/CD testing pipelines**
+## 🛠 Skills & Tools
+
+### 🧪 Testing
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-%23FF6C37.svg?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-%23D22128.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 👯 Open to Collaborate On
-- Test automation frameworks  
-- QA tools and testing pipelines  
-- Open-source testing and DevOps projects  
-
----
-
-## 💬 Ask Me About
-- Test Automation  
-- API Testing  
-- Selenium / Cypress  
-- CI/CD Testing Pipelines  
-- Software Quality Assurance  
-
----
-
-# 💻 Tech Stack
-
-### 🧪 Testing & QA
-Selenium • Cypress • TestNG • JMeter • SOAP UI • Postman • TestRail  
-Regression Testing • Functional Testing • E2E Testing • Performance Testing
 
 ### 💻 Programming
-Java • Python • C# • JavaScript • TypeScript • C++
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Backend
-ASP.NET • Microservices Architecture • REST APIs
+---
+
+### 🌐 Web & Frameworks
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge)
+
+---
 
 ### 🗄 Databases
-SQL Server • SQL • PL/SQL • Relational Databases
-
-### ⚙️ Tools & Platforms
-GitLab • JIRA • CI/CD • Agile • Scrum
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 💼 Work Experience
-
-### 🚗 AVILOO GmbH – Austria  
-**Test and Development Engineer (Part-time)**  
-Sep 2025 – Present
-
-- Test automation of **electric vehicle battery diagnostic software**
-- Collaboration with **framework, reverse engineering, and data science teams**
-- Involved in **release management**
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 💻 Punjab IT Board – Pakistan  
-**Software Engineer**  
-Jun 2022 – Oct 2023
+## 📊 GitHub Stats
 
-- Developed **web portal for Chief Minister office directives**
-- Built enterprise web applications using **ASP.NET, Angular, and microservices**
-- Defined **automation testing strategies**
-- Created **API test suites with Postman and REST Assured**
+![](https://github-readme-stats.vercel.app/api?username=HasanJaved1010&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanJaved1010&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### 🧪 Microrage Solutions – Pakistan  
-**Software Tester**  
-Nov 2019 – May 2022
+## 🌐 Connect With Me
 
-- Implemented **data-driven TestNG automation suites**
-- Developed **manual and automated test cases**
-- Validated **REST APIs and database records**
-- Managed defects and QA documentation using **JIRA**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-javed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HassanJaved1010@gmail.com)
 
 ---
 
-### 🖥 Absolute Solutions – Pakistan  
-**Software Engineer (.NET)**  
-Jan 2018 – Oct 2019
-
-- Migrated **ASP.NET Web Forms to ASP.NET Core**
-- Designed **vehicle E-Tag tracking system**
-- Optimized **SQL Server queries and enterprise reporting**
-
----
-
-# 🎓 Education
-
-🎓 **Master’s in IoT and Smart Systems**  
-FH Technikum Wien, Austria
-
-🎓 **MSc Information Technology**  
-University of the Punjab, Pakistan
-
-🎓 **Bachelor’s in Commerce**  
-University of the Punjab, Pakistan
-
----
-
-# 🚀 Projects
-
-- Facial Recognition System for Criminal Identification  
-- Housing Society Management Platform  
-- Tenancy Management System  
-- Automated Driving License Issuance System  
-- ERP System (Procurement, HRM, Finance, Payroll)
-
----
-
-# 🌍 Languages
-
-🇬🇧 English — Proficient  
-🇵🇰 Urdu — Native  
-🇩🇪 German — Beginner
+⭐ From [HasanJaved1010](https://github.com/HasanJaved1010)
