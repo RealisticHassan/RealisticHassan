@@ -5,7 +5,12 @@
 <img src="https://komarev.com/ghpvc/?username=realistichassan&label=Profile%20views&color=0e75b6&style=flat" alt="realistichassan" />
 </p>
 
-
+<p align="left">
+<a href="https://twitter.com/mk_hassan_javed" height="10">
+<img src="https://img.shields.io/twitter/follow/mk_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+</a>
+</p>
 
 ---
 
