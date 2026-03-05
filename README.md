@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HASAN JAVED M.Sc.</h1>
+<h1 align="center">Mr. HASSAN JAVED M.Sc.</h1>
 <h3 align="center">Softwaere Test and Development Engineer</h3>
 
 <p align="left">
