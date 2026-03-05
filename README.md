@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Advanced Automation Frameworks | Agentic AI**
 
-- 👨‍💻 Know about in more details   https://www.linkedin.com/in/hasan-javed/
+- 👨‍💻 Know about in more detail  [LinkedIn](https://www.linkedin.com/in/hasan-javed/) 
 
 --- 
 
