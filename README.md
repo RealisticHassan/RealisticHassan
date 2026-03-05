@@ -1,10 +1,10 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hassan%20Javed%20M.Sc.&fontSize=40&fontColor=ffffff&desc=Software%20Test%20and%20Development%20Engineer&descSize=15&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hasan%20Javed%20M.Sc.&fontSize=40&fontColor=ffffff&desc=Software%20Test%20and%20Development%20Engineer&descSize=15&descAlignY=65)
 
-<p align="left">
+
 <img src="https://komarev.com/ghpvc/?username=realistichassan&label=Profile%20views&color=0e75b6&style=flat" alt="realistichassan" />
-</p>
+
 
 <p align="left">
 <a href="https://twitter.com/mk_hassan_javed" height="10">
