@@ -11,12 +11,15 @@
 </a>
 </p>
 
+---
 
 - 🔭 I’m currently working on **Battery Diagnostic Project**
 
 - 🌱 I’m currently learning **Advanced Automation Frameworks | Agentic AI**
 
 - 👨‍💻 Know about my experiences   https://www.linkedin.com/in/hasan-javed/
+
+--- 
 
 ### 🛠 Languages and Tools
 
@@ -38,6 +41,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"/>
 
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
