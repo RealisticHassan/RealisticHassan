@@ -3,10 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hasan%20Javed%20M.Sc.&fontSize=40&fontColor=ffffff&desc=Software%20Test%20and%20Development%20Engineer&descSize=15&descAlignY=65)
 
 
-<img src="https://komarev.com/ghpvc/?username=realistichassan&label=Profile%20views&color=0e75b6&style=flat" alt="realistichassan" />
-<p align="left">
+
  
-<img src="https://img.shields.io/twitter/follow/mk_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/twitter/follow/mr_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
  
 
 
@@ -46,5 +45,5 @@
 
 ### 📊 GitHub Stats
  
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=realistichassan" /> </p> 
+
  
