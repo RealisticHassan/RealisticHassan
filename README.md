@@ -5,7 +5,7 @@
 
 
  
-<img src="https://img.shields.io/twitter/follow/mr_hassan_javed?style=for-the-badge&logo=x&logoColor=white" />
+
  
 
 
